@@ -40,6 +40,12 @@ failure_modes: []
 security_privacy: []
 observables: []
 tests: []
+drill:
+  enabled: false
+  known_failure_condition: ""
+  ground_truth: ""
+  safety_boundaries: []
+  postmortem_required: false
 ---
 ```
 
@@ -56,3 +62,9 @@ tests: []
 9. **Implementation boundary** — implemented / limited / partial / intended / experimental / future-institutional.
 10. **Observable tests** — behavior that could be measured later.
 11. **What this scenario does not prove** — adoption, legitimacy, outcome improvement, scale, security, etc.
+
+## Optional adversarial/drill fields
+
+For scenarios that intentionally introduce a known failure, use the optional `drill` block to record the failure condition, ground truth, safety boundaries and postmortem requirement.
+
+The drill metadata does not turn a simulated claim or policy into an endorsed position.

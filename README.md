@@ -136,6 +136,29 @@ Scenario \neq Evidence
 
 Scenarios may generate requirements, failure modes, observable tests, and chapter examples. They do not establish adoption, outcome superiority, social legitimacy, or implementation completeness.
 
+## Practice and Resilience
+
+The repository now contains a dedicated working layer for rehearsal, mastery, founder fallibility, epistemic stress tests and reusable counterpower patterns:
+
+```text
+practice/
+```
+
+Practice is not empirical proof. Its purpose is to turn formal protections into exercised capabilities before a real failure occurs. Detailed test cases remain in `scenarios/`.
+
+\[
+WrittenProtection \rightarrow PracticedPathway \rightarrow ReusableCapacity
+\]
+
+Key references include:
+
+```text
+practice/FOUNDER_FALLIBILITY.md
+practice/CIVIC_RESILIENCE_DRILLS.md
+practice/EPISTEMIC_RESILIENCE_DRILLS.md
+practice/CORPUS_AUTONOMY.md
+```
+
 ## Live Ecosystem Sources
 
 The current implementation example is documented through live source repositories and wikis indexed in:
@@ -212,6 +235,14 @@ Generalization \neq ForcedUniformity
 \]
 
 The development method is project history and design discipline, not evidence that the resulting architecture is correct or superior.
+
+A separate historical record preserves the author-reported fact that Pi Theory predates kOA, that the early ecosystem began as a partially connected set of applications, and that the Pi Theory / Sephirot / kOA correspondences were explored retrospectively with uncertainty about their exact ordering:
+
+```text
+architecture/CORPUS_GENESIS_AND_CONVERGENCE.md
+```
+
+The distinction matters because retrospective structural convergence is not the same claim as direct top-down derivation.
 
 # Book Structure
 
@@ -506,6 +537,7 @@ A narrative layer can potentially perform several functions:
 5. **Adversarial simulation** — test institutional failure modes through fiction.
 6. **Normative precommitment** — publicly encode how the system itself should later be criticized.
 7. **Founder decentering** — teach participants that the founder, symbol, or storyteller is not the system.
+8. **Resilience rehearsal** — create memorable, bounded situations in which participants practice rejecting a bad claim or proposal without treating disagreement as betrayal.
 
 The central safeguard is:
 
@@ -577,7 +609,9 @@ How the whole becomes perceptible, memorable, transmissible, and criticizable.
 
 ### Practice / Mastery
 
-Whether real humans and institutions can operate, maintain, repair, teach, fork, and evolve what was built.
+Whether real humans and institutions can operate, maintain, repair, teach, fork, contest, and evolve what was built.
+
+Working practice documentation is maintained in `practice/`, while concrete drills and sociotechnical test cases remain in `scenarios/`.
 
 A system is not durable merely because its files survive.
 

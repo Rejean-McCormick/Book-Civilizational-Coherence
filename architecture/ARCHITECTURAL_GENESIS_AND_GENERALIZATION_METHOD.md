@@ -206,3 +206,21 @@ The existence of an elaborate, recursively refined architecture does not prove:
 - that internal coherence implies external validity.
 
 The method is valuable only insofar as its abstractions survive contact with implementation, external evidence, domain constraints and failure.
+
+
+## 11. Corpus genesis and retrospective convergence
+
+A separate historical record distinguishes this cross-domain generalization method from the later exploratory alignment among Pi Theory, the Sephirot comparison and the kOA ecosystem:
+
+```text
+architecture/CORPUS_GENESIS_AND_CONVERGENCE.md
+```
+
+That record preserves two important constraints:
+
+- Pi Theory is author-reported to predate kOA by several years;
+- the exact order of the later Pi Theory / Sephirot alignment is not reconstructed beyond what the author currently remembers.
+
+\[
+RetrospectiveCorrespondence \neq DirectCausalDerivation
+\]

@@ -83,9 +83,31 @@ civilizational-coherence/
     ├── crisis/
     ├── healthcare/
     ├── knowledge/
+    ├── governance/
     ├── education/
     ├── culture/
     └── legacy/
 ```
 
 The scenario library sits **below the canonical book-definition authority**. It may generate chapter examples, requirements, failure modes, counterexamples and tests, but must not silently change canonical theory.
+
+
+## Adversarial / resilience scenarios
+
+Some scenarios intentionally introduce a known failure or abusive proposal in order to test correction pathways.
+
+Their governing chain is:
+
+\[
+KnownFailureCondition
+\rightarrow
+Detection
+\rightarrow
+Contestation
+\rightarrow
+Correction
+\rightarrow
+ReusableLearning
+\]
+
+These cases must preserve explicit safety boundaries and must not be interpreted as endorsement of the simulated claim or policy.

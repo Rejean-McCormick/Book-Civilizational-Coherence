@@ -146,3 +146,55 @@ ExternalCapability \rightarrow MimicOrAnnex \rightarrow SharedContracts
 
 **Risks:** dual truth, license incompatibility, hidden dependency, adapter drift.
 
+
+---
+
+## P23 — Preserve Contestable Worldviews
+
+**Problem:** a shared knowledge infrastructure becomes a de facto central authority if alternative worldviews cannot be represented, forked or compared.
+
+\[
+ReferenceCorpus + ForkableWorldviews
+\]
+
+while preserving:
+
+\[
+FreedomToRepresent \neq EqualEvidence
+\]
+
+**Possible implementation example:** Kristal branch lineage with explicit axioms, provenance and validation state.
+
+**Risks:** relativism, branch confusion, hidden canonical coercion, propaganda forks presented as reference truth.
+
+---
+
+## P24 — Distinguish Apparent Support From Causal Independence
+
+**Problem:** many citations, experts or publications can create an illusion of independent confirmation while tracing back to the same source, operator or unsupported claim.
+
+\[
+CitationCount \neq IndependentEvidenceCount
+\]
+
+A system should preserve enough provenance to estimate or inspect causal independence.
+
+**Risks:** Sybil-like epistemic amplification, citation laundering, circular validation, prestige cascades.
+
+---
+
+## P25 — Rehearse Legitimate Opposition Before Crisis
+
+**Problem:** formal rights of contestation may be unusable if people have never practiced how to exercise them against a powerful internal authority.
+
+\[
+FormalRight
+\rightarrow
+Practice
+\rightarrow
+ReusableCounterpower
+\]
+
+**Possible implementation example:** civic resilience drills such as `SCN-GOV-001`.
+
+**Risks:** exercise becomes polarization, simulated abuse causes real harm, opposition becomes identity conflict rather than proposition-level contestation.

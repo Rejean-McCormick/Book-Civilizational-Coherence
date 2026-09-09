@@ -13,13 +13,15 @@ status: governed-working-library
 | SCN-KNOW-001 | Unknown contributor enters a global knowledge corpus | Knowledge | FUTURE-INSTITUTIONAL | P02 P05 P10 P11 P17 |
 | SCN-EDU-001 | Remote multilingual school connected to global knowledge | Education | FUTURE-INSTITUTIONAL | P07 P08 P14 P15 P18 |
 | SCN-CULTURE-001 | Fictional-universe fork, merge and cultural dispute | Culture | TARGET-ARCHITECTURE | P12 P13 P16 P17 |
+| SCN-KNOW-002 | Flat-Earth Kristal epistemic corruption drill | Knowledge | TARGET-ARCHITECTURE | P02 P05 P10 P11 P16 P17 P20 P23 P24 |
+| SCN-GOV-001 | Tattoo-policy civic resistance drill | Governance | FUTURE-INSTITUTIONAL | P05 P12 P13 P17 P19 P20 P25 |
 
 ## Future families
 
 - crisis: wildfire, mass casualty, infrastructure collapse, epidemic;
 - healthcare: rural clinic, discharge instructions, referral coordination;
 - education: company academy, disciplinary Univers-City, apprenticeship;
-- governance: municipal consultation, technical regulation, emergency authority;
-- knowledge: minority hypothesis, standards development, scientific correction;
+- governance: municipal consultation, technical regulation, emergency authority, civic resilience drills;
+- knowledge: minority hypothesis, standards development, scientific correction, epistemic corruption drills;
 - organizations: incident, maintenance knowledge, staff turnover, postmortem-to-training;
 - culture: public-domain remix, cultural archive, endangered language corpus.

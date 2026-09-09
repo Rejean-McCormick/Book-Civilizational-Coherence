@@ -1,6 +1,6 @@
 {
   "name": "CivCohe Scenario Library",
-  "version": "1.0",
+  "version": "1.1",
   "recommended_repo_destination": "scenarios/",
   "markdown_files": [
     "INDEX.md",
@@ -12,7 +12,9 @@
     "education/SCN-EDU-001-nain-remote-multilingual-school.md",
     "healthcare/SCN-HEALTH-001-multilingual-hospital.md",
     "knowledge/SCN-KNOW-001-unknown-contributor-kristall.md",
-    "legacy/LEGACY_SCENARIO_MIGRATION.md"
+    "legacy/LEGACY_SCENARIO_MIGRATION.md",
+    "governance/SCN-GOV-001-tattoo-policy-resistance-drill.md",
+    "knowledge/SCN-KNOW-002-flat-earth-kristal.md"
   ],
-  "count": 10
+  "count": 12
 }
